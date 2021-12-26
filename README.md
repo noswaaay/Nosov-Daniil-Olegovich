@@ -66,5 +66,4 @@
 
 Продвинутый пользователь (офисные пакеты Microsoft Office XP/2003/2007, 2011, БД; 1C) / Advanced user (office packages Microsoft Office XP/2003/2007, 2011, DB; 1C).
 
-## О себе
 
