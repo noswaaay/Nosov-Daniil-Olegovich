@@ -30,6 +30,8 @@
 
 •	Знание языка запросов SQL / Knowledge of SQL query language;
 
+•	Знание языков С#, Python, JAWA / Language knowledge Knowledge of C#, Python, JAWA languages.
+
 ## Опыт работы / Work experience :
 
 •	Администрирование локальных сетей, серверов, рабочих станций / Administration of local networks, servers, workstations ;
