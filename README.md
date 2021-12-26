@@ -1,17 +1,20 @@
 # Мое резюме / My resume
-# Nosov-Daniil-Olegovich
+
+## ФИО /  First Name 
+
+Носов Даниил Олегович / Nosov Daniil Olegovich
 
 ## Желаемая должность / Desired position :
 
-Системный администратор / 
+Системный администратор / System Administrator
 
-## Дата рождения:
+## Дата рождения / Birthday :
 
 07.04.2003
 
-## Проживание:
+## Проживание / Accommodation:
 
-г. Новозыбков
+г. Новозыбков / the city of Novozybkov
 
 ## Контактная информация:
 
