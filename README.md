@@ -16,33 +16,33 @@
 
 г. Новозыбков / the city of Novozybkov
 
-## Контактная информация:
+## Контактная информация / Contact information:
 
-Телефон: +7 (999) 000-33-43
+Телефон / Phone : +7 (999) 000-33-43
 
-Электронная почта: noswaaay@yande.ru
+Электронная почта / Email: noswaaay@yandex.ru
 
-## Ключевые знания и навыки:
+## Ключевые знания и навыки / Key knowledge and skills :
 
-•	Опыт администрирования 1С:Бухгалтерия ;
+•	Опыт администрирования 1С:Бухгалтерия / 1C administration experience:Accounting ;
 
-•	Навыки монтажа и обслуживания ПК;
+•	Навыки монтажа и обслуживания ПК / PC installation and maintenance skills;
 
-•	Знание языка запросов SQL;
+•	Знание языка запросов SQL / Knowledge of SQL query language;
 
-## Опыт работы:
+## Опыт работы / Work experience :
 
-•	Администрирование локальных сетей, серверов, рабочих станций, АТС;
+•	Администрирование локальных сетей, серверов, рабочих станций / Administration of local networks, servers, workstations ;
 
-•	Техническое обслуживание ПК и локальной сети;
+•	Техническое обслуживание ПК и локальной сети / PC and LAN maintenance ;
 
-•	Инструктаж и работа с заявками о неисправностях от пользователей;
+•	Инструктаж и работа с заявками о неисправностях от пользователей / Instructing and handling user requests for malfunctions ;
 
-•	Мониторинг работоспособности сетевого оборудования;
+•	Мониторинг работоспособности сетевого оборудования / Network equipment health monitoring ;
 
-•	Поддержка работоспособности, устранение возникающих неполадок.
+•	Поддержка работоспособности, устранение возникающих неполадок / Health support, troubleshooting .
 
-## Достижения
+## Достижения / Achievements :
 
 ![1](https://user-images.githubusercontent.com/94595514/147410882-f78a4631-1eac-4ab9-8152-aebd3238bdb9.jpg)
 
@@ -50,17 +50,21 @@
 
 ![3](https://user-images.githubusercontent.com/94595514/147410895-cf686f16-7fc0-4d7d-a936-fbc286f351a9.jpg)
 
-## Образование:
+## Образование / Education :
 
- Среднее образование
+Общее школьное / General school education ;
+
+Среднее профессиональное / Secondary vocational .
  
-## Иностранные языки: 
+## Знание языков / Knowledge of languages : 
 
-Английский язык
+Русский язык / Russian language ;
 
-## Знание ПК: 
+Английский язык / English language .
 
-Продвинутый пользователь (офисные пакеты Microsoft Office XP/2003/2007, 2011, БД; 1C).
+## Знание ПК / PC knowledge : 
+
+Продвинутый пользователь (офисные пакеты Microsoft Office XP/2003/2007, 2011, БД; 1C) / Advanced user (office packages Microsoft Office XP/2003/2007, 2011, DB; 1C).
 
 ## О себе
 
